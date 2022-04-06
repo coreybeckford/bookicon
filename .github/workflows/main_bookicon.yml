@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'bookicon'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_032F1F113A7040019A18558EA53B74A7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62682E328CED4086B9F1DA316E6524BE }}
           package: .
